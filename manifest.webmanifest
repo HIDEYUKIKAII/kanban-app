@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "看板（GitHub 連動）",
+  "short_name": "看板",
+  "description": "GitHub の PR・看板・動きを日本語で見て、コメントとマージができる画面",
+  "lang": "ja",
+  "start_url": "./#/prs",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#2457d6",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
